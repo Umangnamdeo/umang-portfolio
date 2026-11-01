@@ -2,7 +2,7 @@
 
 A single-file interactive portfolio website for **Umang Namdeo**, CS student, footballer, and creative developer. Projects sync automatically from the GitHub API; no manual deployment is needed when new repos are pushed.
 
-🔗 **Live site:** https://umang-portfolio-three.vercel.app/
+🔗 **Live site:** https://umang-portfolio-seven-flax.vercel.app
 
 ---
 
